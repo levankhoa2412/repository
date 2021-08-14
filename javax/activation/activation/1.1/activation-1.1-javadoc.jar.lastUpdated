@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Aug 23 17:23:49 ICT 2019
+https\://maven.oracle.com/.error=Could not transfer artifact javax.activation\:activation\:jar\:javadoc\:1.1 from/to maven.oracle.com (https\://maven.oracle.com)\: Failed to transfer file\: https\://maven.oracle.com/javax/activation/activation/1.1/activation-1.1-javadoc.jar. Return code is\: 400 , ReasonPhrase\:Bad Request.
+@default-maven.oracle.com-https\://maven.oracle.com/.lastUpdated=1563177232149
+https\://repo.maven.apache.org/maven2/.lastUpdated=1566555829783
+https\://repo.maven.apache.org/maven2/.error=

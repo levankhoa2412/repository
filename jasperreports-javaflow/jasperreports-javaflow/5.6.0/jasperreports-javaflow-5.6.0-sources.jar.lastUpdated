@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Aug 09 10:23:47 ICT 2021
+https\://www.oracle.com/content/secure/maven/content/.error=Could not transfer artifact jasperreports-javaflow\:jasperreports-javaflow\:jar\:sources\:5.6.0 from/to maven-group (https\://www.oracle.com/content/secure/maven/content)\: Not authorized , ReasonPhrase\:Authorization Required.
+@default-maven-group-https\://www.oracle.com/content/secure/maven/content/.lastUpdated=1554800200661
+https\://repo.maven.apache.org/maven2/.lastUpdated=1628479427579
+http\://10.82.14.136\:18081/repository/maven-group/.error=Could not transfer artifact jasperreports-javaflow\:jasperreports-javaflow\:jar\:sources\:5.6.0 from/to maven-group (http\://10.82.14.136\:18081/repository/maven-group/)\: Connect to 10.82.14.136\:18081 [/10.82.14.136] failed\: Connection timed out\: connect
+https\://repo.maven.apache.org/maven2/.error=
+@default-maven-group-http\://10.82.14.136\:18081/repository/maven-group/.lastUpdated=1541646152119

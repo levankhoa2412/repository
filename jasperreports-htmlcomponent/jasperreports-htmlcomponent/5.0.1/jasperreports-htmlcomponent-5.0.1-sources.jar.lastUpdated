@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Aug 09 10:23:38 ICT 2021
+@default-maven-group-https\://www.oracle.com/content/secure/maven/content/.lastUpdated=1554800157026
+https\://www.oracle.com/content/secure/maven/content/.error=Could not transfer artifact jasperreports-htmlcomponent\:jasperreports-htmlcomponent\:jar\:sources\:5.0.1 from/to maven-group (https\://www.oracle.com/content/secure/maven/content)\: Not authorized , ReasonPhrase\:Authorization Required.
+https\://repo.maven.apache.org/maven2/.lastUpdated=1628479418266
+http\://10.82.14.136\:18081/repository/maven-group/.error=Could not transfer artifact jasperreports-htmlcomponent\:jasperreports-htmlcomponent\:jar\:sources\:5.0.1 from/to maven-group (http\://10.82.14.136\:18081/repository/maven-group/)\: Connect to 10.82.14.136\:18081 [/10.82.14.136] failed\: Connection timed out\: connect
+@default-maven-group-http\://10.82.14.136\:18081/repository/maven-group/.lastUpdated=1541645959734
+https\://repo.maven.apache.org/maven2/.error=
