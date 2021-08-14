@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jul 15 14:28:13 ICT 2019
+https\://maven.oracle.com/.error=Could not transfer artifact org.springframework.data.build\:spring-data-parent\:pom\:2.1.9.RELEASE from/to maven.oracle.com (https\://maven.oracle.com)\: Failed to transfer file\: https\://maven.oracle.com/org/springframework/data/build/spring-data-parent/2.1.9.RELEASE/spring-data-parent-2.1.9.RELEASE.pom. Return code is\: 400 , ReasonPhrase\:Bad Request.
+@default-maven.oracle.com-https\://maven.oracle.com/.lastUpdated=1563175692490
+https\://repo.maven.apache.org/maven2/.lastUpdated=1563175693080

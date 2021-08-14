@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Aug 23 17:23:52 ICT 2019
+https\://maven.oracle.com/.error=Could not transfer artifact org.antlr\:stringtemplate\:jar\:javadoc\:3.2.1 from/to maven.oracle.com (https\://maven.oracle.com)\: Failed to transfer file\: https\://maven.oracle.com/org/antlr/stringtemplate/3.2.1/stringtemplate-3.2.1-javadoc.jar. Return code is\: 400 , ReasonPhrase\:Bad Request.
+@default-maven.oracle.com-https\://maven.oracle.com/.lastUpdated=1563177357028
+https\://repo.maven.apache.org/maven2/.lastUpdated=1566555832908
+https\://repo.maven.apache.org/maven2/.error=

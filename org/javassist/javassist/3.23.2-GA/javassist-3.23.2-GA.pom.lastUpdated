@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jul 15 14:27:27 ICT 2019
+https\://maven.oracle.com/.error=Could not transfer artifact org.javassist\:javassist\:pom\:3.23.2-GA from/to maven.oracle.com (https\://maven.oracle.com)\: Failed to transfer file\: https\://maven.oracle.com/org/javassist/javassist/3.23.2-GA/javassist-3.23.2-GA.pom. Return code is\: 400 , ReasonPhrase\:Bad Request.
+@default-maven.oracle.com-https\://maven.oracle.com/.lastUpdated=1563175647280
+https\://repo.maven.apache.org/maven2/.lastUpdated=1563175647877

@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Nov 07 20:55:55 ICT 2018
+https\://repo.maven.apache.org/maven2/.lastUpdated=1541598955314
+http\://repository.jboss.org/nexus/content/groups/public/.error=Could not transfer artifact org.jboss.logging\:jboss-logging\:jar\:3.3.2.Final from/to repository.jboss.org (http\://repository.jboss.org/nexus/content/groups/public/)\: Connect to repository.jboss.org\:80 [repository.jboss.org/209.132.182.97] failed\: Connection timed out\: connect
+@default-repository.jboss.org-http\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1541581533760

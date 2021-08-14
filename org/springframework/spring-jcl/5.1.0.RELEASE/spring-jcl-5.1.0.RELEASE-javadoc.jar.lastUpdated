@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Mar 11 14:52:02 ICT 2019
+@default-maven-group-https\://www.oracle.com/content/secure/maven/content/.lastUpdated=1552290722076
+https\://www.oracle.com/content/secure/maven/content/.error=Could not transfer artifact org.springframework\:spring-jcl\:jar\:javadoc\:5.1.0.RELEASE from/to maven-group (https\://www.oracle.com/content/secure/maven/content)\: Not authorized , ReasonPhrase\:Authorization Required.
+https\://repo.maven.apache.org/maven2/.lastUpdated=1552290722692

@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jul 15 14:28:22 ICT 2019
+https\://maven.oracle.com/.error=Could not transfer artifact org.springframework\:spring-aspects\:pom\:5.1.8.RELEASE from/to maven.oracle.com (https\://maven.oracle.com)\: Failed to transfer file\: https\://maven.oracle.com/org/springframework/spring-aspects/5.1.8.RELEASE/spring-aspects-5.1.8.RELEASE.pom. Return code is\: 400 , ReasonPhrase\:Bad Request.
+@default-maven.oracle.com-https\://maven.oracle.com/.lastUpdated=1563175701969
+https\://repo.maven.apache.org/maven2/.lastUpdated=1563175702557

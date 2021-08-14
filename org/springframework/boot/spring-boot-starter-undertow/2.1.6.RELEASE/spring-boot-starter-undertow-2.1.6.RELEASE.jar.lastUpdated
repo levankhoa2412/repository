@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jul 15 15:29:29 ICT 2019
+https\://maven.oracle.com/.error=Could not transfer artifact org.springframework.boot\:spring-boot-starter-undertow\:jar\:2.1.6.RELEASE from/to maven.oracle.com (https\://maven.oracle.com)\: Failed to transfer file\: https\://maven.oracle.com/org/springframework/boot/spring-boot-starter-undertow/2.1.6.RELEASE/spring-boot-starter-undertow-2.1.6.RELEASE.jar. Return code is\: 400 , ReasonPhrase\:Bad Request.
+@default-maven.oracle.com-https\://maven.oracle.com/.lastUpdated=1563179368858

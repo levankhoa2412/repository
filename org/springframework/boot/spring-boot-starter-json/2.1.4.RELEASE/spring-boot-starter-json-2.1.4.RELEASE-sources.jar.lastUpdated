@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Aug 23 17:24:02 ICT 2019
+https\://maven.oracle.com/.error=Could not transfer artifact org.springframework.boot\:spring-boot-starter-json\:jar\:sources\:2.1.4.RELEASE from/to maven.oracle.com (https\://maven.oracle.com)\: Failed to transfer file\: https\://maven.oracle.com/org/springframework/boot/spring-boot-starter-json/2.1.4.RELEASE/spring-boot-starter-json-2.1.4.RELEASE-sources.jar. Return code is\: 400 , ReasonPhrase\:Bad Request.
+@default-maven.oracle.com-https\://maven.oracle.com/.lastUpdated=1563177261254
+https\://repo.maven.apache.org/maven2/.lastUpdated=1566555842763
+https\://repo.maven.apache.org/maven2/.error=

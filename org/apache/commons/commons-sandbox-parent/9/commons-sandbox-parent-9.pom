@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--
+Licensed to the Apache Software Foundation (ASF) under one
+or more contributor license agreements.  See the NOTICE file
+distributed with this work for additional information
+regarding copyright ownership.  The ASF licenses this file
+to you under the Apache License, Version 2.0 (the
+"License"); you may not use this file except in compliance
+with the License.  You may obtain a copy of the License at
+
+  http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing,
+software distributed under the License is distributed on an
+"AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+KIND, either express or implied.  See the License for the
+specific language governing permissions and limitations
+under the License.
+-->
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>org.apache.commons</groupId>
+    <artifactId>commons-parent</artifactId>
+    <version>15</version>
+  </parent>
+  <groupId>org.apache.commons</groupId>
+  <artifactId>commons-sandbox-parent</artifactId>
+  <packaging>pom</packaging>
+  <!-- TODO: dummy version. In Maven 2.1, this will be auto-versioned being a generic parent -->
+  <version>9</version>
+  <name>Commons Sandbox Parent</name>
+  <url>http://commons.apache.org/sandbox/</url>
+  <issueManagement>
+    <system>JIRA</system>
+    <url>http://issues.apache.org/jira/browse/SANDBOX</url>
+  </issueManagement>
+  <scm>
+    <connection>scm:svn:http://svn.apache.org/repos/asf/commons/proper/commons-sandbox-parent/tags/commons-sandbox-parent-9</connection>
+    <developerConnection>scm:svn:https://svn.apache.org/repos/asf/commons/proper/commons-sandbox-parent/tags/commons-sandbox-parent-9</developerConnection>
+    <url>http://svn.apache.org/viewvc/commons/proper/commons-sandbox-parent/tags/commons-sandbox-parent-9</url>
+  </scm>
+  <!-- These reports should be moved to commons-parent some day -->
+  <reporting>
+    <plugins>
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-pmd-plugin</artifactId>
+        <version>2.4</version>
+        <configuration>
+           <targetJdk>${maven.compile.target}</targetJdk>
+        </configuration> 
+      </plugin>
+      <plugin>
+        <groupId>org.codehaus.mojo</groupId>
+        <artifactId>cobertura-maven-plugin</artifactId>
+        <version>2.3</version>
+      </plugin>
+      <plugin>
+        <groupId>org.codehaus.mojo</groupId>
+        <artifactId>taglist-maven-plugin</artifactId>
+        <version>2.4</version>
+        <configuration> 
+          <tags>
+            <tag>TODO</tag>
+            <tag>@todo</tag>
+            <tag>FIXME</tag>
+          </tags>
+          <aggregate>true</aggregate>
+        </configuration> 
+      </plugin>
+    </plugins>
+  </reporting>
+  <distributionManagement>
+    <site>
+      <id>apache.website</id>
+      <url>${commons.deployment.protocol}://people.apache.org/www/commons.apache.org/sandbox/</url>
+    </site>
+  </distributionManagement>
+
+
+  <profiles>
+    <!--
+      Profile to build all Commons "sandbox" components.
+
+      The trunks of all "sandbox" components can be checked out using:
+          https://svn.apache.org/repos/asf/commons/trunks-sandbox/
+
+      This profile is a convenience which can be used, for example, to build all the component sites:
+          mvn -Ptrunks-sandbox site
+
+      or, to clean up:
+          mvn -Ptrunks-sandbox clean
+          
+      or, to rebuild all the JIRA pages:
+          mvn -Ptrunks-sandbox commons:sandbox-jira-page
+      -->
+    <profile>
+      <id>trunks-sandbox</id>
+      <modules>
+      <!-- Only "active" sandbox projects with M2 builds should be listed here
+           The projects should also be listed as externals in:
+           http://svn.apache.org/viewvc/commons/trunks-sandbox/
+       -->
+        <module>../avalon-cli</module>
+        <module>../cli2</module>
+        <module>../convert</module>
+        <module>../csv</module>
+        <module>../finder</module>
+        <module>../flatfile</module>
+        <module>../functor</module>
+        <module>../i18n</module>
+        <module>../id</module>
+        <module>../javaflow</module>
+        <module>../jnet</module>
+        <module>../js2j</module>
+        <module>../money</module>
+        <module>../monitoring</module>
+        <module>../nabla</module>
+        <module>../openpgp</module>
+        <module>../performance</module>
+        <module>../pipeline</module>
+        <module>../resources</module>
+        <module>../runtime</module>
+        <module>../validator2</module>
+        <module>../xml</module>
+      </modules>
+    </profile>
+  </profiles>
+</project>
+

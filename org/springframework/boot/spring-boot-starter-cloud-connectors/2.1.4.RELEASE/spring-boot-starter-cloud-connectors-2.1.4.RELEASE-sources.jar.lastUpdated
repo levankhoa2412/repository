@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Aug 23 17:23:48 ICT 2019
+https\://maven.oracle.com/.error=Could not transfer artifact org.springframework.boot\:spring-boot-starter-cloud-connectors\:jar\:sources\:2.1.4.RELEASE from/to maven.oracle.com (https\://maven.oracle.com)\: Failed to transfer file\: https\://maven.oracle.com/org/springframework/boot/spring-boot-starter-cloud-connectors/2.1.4.RELEASE/spring-boot-starter-cloud-connectors-2.1.4.RELEASE-sources.jar. Return code is\: 400 , ReasonPhrase\:Bad Request.
+@default-maven.oracle.com-https\://maven.oracle.com/.lastUpdated=1563177285544
+https\://repo.maven.apache.org/maven2/.lastUpdated=1566555828576
+https\://repo.maven.apache.org/maven2/.error=

@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jul 15 14:29:07 ICT 2019
+https\://maven.oracle.com/.error=Could not transfer artifact org.zalando\:jackson-datatype-problem\:pom\:0.22.0 from/to maven.oracle.com (https\://maven.oracle.com)\: Failed to transfer file\: https\://maven.oracle.com/org/zalando/jackson-datatype-problem/0.22.0/jackson-datatype-problem-0.22.0.pom. Return code is\: 400 , ReasonPhrase\:Bad Request.
+@default-maven.oracle.com-https\://maven.oracle.com/.lastUpdated=1563175746974
+https\://repo.maven.apache.org/maven2/.lastUpdated=1563175747536

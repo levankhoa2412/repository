@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jul 15 09:21:29 ICT 2019
+byte-buddy-agent-1.9.12.jar>central=
+byte-buddy-agent-1.9.12.pom>central=
+byte-buddy-agent-1.9.12-javadoc.jar>central=
+byte-buddy-agent-1.9.12-sources.jar>central=

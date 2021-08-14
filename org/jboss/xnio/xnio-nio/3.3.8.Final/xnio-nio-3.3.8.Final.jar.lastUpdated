@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Nov 07 14:51:59 ICT 2018
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1541577081759
+http\://repository.jboss.org/nexus/content/groups/public/.lastUpdated=1541577119581
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.jboss.xnio\:xnio-nio\:jar\:3.3.8.Final from/to central (https\://repo.maven.apache.org/maven2)\: repo.maven.apache.org

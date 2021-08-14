@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri May 28 15:07:40 ICT 2021
+xmlsec-2.2.0.jar>central=
+xmlsec-2.2.0.pom>central=
+xmlsec-2.2.0-javadoc.jar>central=
+xmlsec-2.2.0-sources.jar>central=

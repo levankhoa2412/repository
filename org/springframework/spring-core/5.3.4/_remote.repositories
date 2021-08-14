@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jun 11 17:40:23 ICT 2021
+spring-core-5.3.4.jar>central=
+spring-core-5.3.4.pom>central=
+spring-core-5.3.4-javadoc.jar>central=
+spring-core-5.3.4-sources.jar>central=

@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Aug 09 10:23:54 ICT 2021
+@default-maven-group-https\://www.oracle.com/content/secure/maven/content/.lastUpdated=1554800176758
+https\://www.oracle.com/content/secure/maven/content/.error=Could not transfer artifact org.mylib\:itext\:jar\:javadoc\:4.2.1 from/to maven-group (https\://www.oracle.com/content/secure/maven/content)\: Not authorized , ReasonPhrase\:Authorization Required.
+https\://repo.maven.apache.org/maven2/.lastUpdated=1628479434183
+https\://repo.maven.apache.org/maven2/.error=

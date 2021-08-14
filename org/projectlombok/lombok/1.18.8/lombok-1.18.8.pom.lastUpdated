@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jul 15 16:21:10 ICT 2019
+https\://maven.oracle.com/.error=Could not transfer artifact org.projectlombok\:lombok\:pom\:1.18.8 from/to maven.oracle.com (https\://maven.oracle.com)\: Not authorized , ReasonPhrase\:Authorization Required.
+@default-maven.oracle.com-https\://maven.oracle.com/.lastUpdated=1563182467376
+https\://repo.maven.apache.org/maven2/.lastUpdated=1563182470630

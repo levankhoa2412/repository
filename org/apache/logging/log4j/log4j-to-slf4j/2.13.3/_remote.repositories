@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jun 11 17:40:26 ICT 2021
+log4j-to-slf4j-2.13.3.pom>central=
+log4j-to-slf4j-2.13.3-sources.jar>central=
+log4j-to-slf4j-2.13.3-javadoc.jar>central=
+log4j-to-slf4j-2.13.3.jar>central=

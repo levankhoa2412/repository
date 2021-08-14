@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Nov 07 14:51:21 ICT 2018
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1541577081688
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.springframework.boot\:spring-boot-starter-web\:jar\:2.0.5.RELEASE from/to central (https\://repo.maven.apache.org/maven2)\: repo.maven.apache.org

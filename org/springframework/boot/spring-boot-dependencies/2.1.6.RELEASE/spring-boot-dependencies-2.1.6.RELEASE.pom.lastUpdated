@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jul 15 14:23:58 ICT 2019
+https\://maven.oracle.com/.error=Could not transfer artifact org.springframework.boot\:spring-boot-dependencies\:pom\:2.1.6.RELEASE from/to maven.oracle.com (https\://maven.oracle.com)\: Not authorized , ReasonPhrase\:Authorization Required.
+@default-maven.oracle.com-https\://maven.oracle.com/.lastUpdated=1563175437979
+https\://repo.maven.apache.org/maven2/.lastUpdated=1563175438706

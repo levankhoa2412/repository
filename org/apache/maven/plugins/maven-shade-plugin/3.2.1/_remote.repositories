@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jul 15 08:25:00 ICT 2019
+maven-shade-plugin-3.2.1.jar>central=
+maven-shade-plugin-3.2.1.pom>central=

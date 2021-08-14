@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Apr 09 15:56:06 ICT 2019
+https\://repo.maven.apache.org/maven2/.lastUpdated=1554800166112
+http\://jcenter.bintray.com/.error=
+http\://jcenter.bintray.com/.lastUpdated=1554800164958
+http\://10.82.14.136\:18081/repository/maven-group/.error=Could not transfer artifact org.jetbrains.exposed\:exposed\:jar\:javadoc\:0.10.5 from/to maven-group (http\://10.82.14.136\:18081/repository/maven-group/)\: Connect to 10.82.14.136\:18081 [/10.82.14.136] failed\: Connection timed out\: connect
+@default-maven-group-http\://10.82.14.136\:18081/repository/maven-group/.lastUpdated=1541645873567
+https\://repo.maven.apache.org/maven2/.error=
