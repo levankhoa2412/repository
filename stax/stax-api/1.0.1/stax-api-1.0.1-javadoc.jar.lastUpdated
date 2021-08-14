@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Aug 09 10:24:09 ICT 2021
+https\://maven.oracle.com/.error=Could not transfer artifact stax\:stax-api\:jar\:javadoc\:1.0.1 from/to maven.oracle.com (https\://maven.oracle.com)\: Failed to transfer file\: https\://maven.oracle.com/stax/stax-api/1.0.1/stax-api-1.0.1-javadoc.jar. Return code is\: 400 , ReasonPhrase\:Bad Request.
+@default-maven.oracle.com-https\://maven.oracle.com/.lastUpdated=1563177274958
+https\://repo.maven.apache.org/maven2/.lastUpdated=1628479449574
+https\://repo.maven.apache.org/maven2/.error=
