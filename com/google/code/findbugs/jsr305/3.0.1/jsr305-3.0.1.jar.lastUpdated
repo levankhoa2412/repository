@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Nov 07 14:51:21 ICT 2018
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1541577081466
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.google.code.findbugs\:jsr305\:jar\:3.0.1 from/to central (https\://repo.maven.apache.org/maven2)\: repo.maven.apache.org

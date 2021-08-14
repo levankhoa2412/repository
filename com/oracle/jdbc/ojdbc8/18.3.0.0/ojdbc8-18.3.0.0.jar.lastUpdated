@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jul 15 16:21:29 ICT 2019
+https\://maven.oracle.com/.error=Could not transfer artifact com.oracle.jdbc\:ojdbc8\:jar\:18.3.0.0 from/to maven.oracle.com (https\://maven.oracle.com)\: Not authorized , ReasonPhrase\:Authorization Required.
+@default-maven.oracle.com-https\://maven.oracle.com/.lastUpdated=1563182473956
+https\://repo.maven.apache.org/maven2/.lastUpdated=1563182489574
+https\://repo.maven.apache.org/maven2/.error=

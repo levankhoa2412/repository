@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jul 15 09:19:52 ICT 2019
+hazelcast-3.11.2.jar>central=
+hazelcast-3.11.2-javadoc.jar>central=
+hazelcast-3.11.2.pom>central=
+hazelcast-3.11.2-sources.jar>central=

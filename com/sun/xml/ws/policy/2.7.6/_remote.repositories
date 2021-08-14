@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jun 15 11:23:09 ICT 2021
+policy-2.7.6-sources.jar>central=
+policy-2.7.6-javadoc.jar>central=
+policy-2.7.6.jar>central=
+policy-2.7.6.pom>central=

@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Nov 24 10:59:40 ICT 2020
+nimbus-jose-jwt-4.20.jar>central=
+nimbus-jose-jwt-4.20-sources.jar>central=
+nimbus-jose-jwt-4.20-javadoc.jar>central=
+nimbus-jose-jwt-4.20.pom>central=

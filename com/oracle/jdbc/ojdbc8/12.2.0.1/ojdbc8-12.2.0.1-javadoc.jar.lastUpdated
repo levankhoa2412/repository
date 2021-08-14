@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Apr 09 15:56:26 ICT 2019
+@default-maven-group-https\://www.oracle.com/content/secure/maven/content/.lastUpdated=1554800185491
+https\://www.oracle.com/content/secure/maven/content/.error=Could not transfer artifact com.oracle.jdbc\:ojdbc8\:jar\:javadoc\:12.2.0.1 from/to maven-group (https\://www.oracle.com/content/secure/maven/content)\: Not authorized , ReasonPhrase\:Authorization Required.
+https\://repo.maven.apache.org/maven2/.lastUpdated=1554800186093
+http\://10.82.14.136\:18081/repository/maven-group/.error=Could not transfer artifact com.oracle.jdbc\:ojdbc8\:jar\:javadoc\:12.2.0.1 from/to maven-group (http\://10.82.14.136\:18081/repository/maven-group/)\: Connect to 10.82.14.136\:18081 [/10.82.14.136] failed\: Connection timed out\: connect
+https\://repo.maven.apache.org/maven2/.error=
+@default-maven-group-http\://10.82.14.136\:18081/repository/maven-group/.lastUpdated=1541646081292

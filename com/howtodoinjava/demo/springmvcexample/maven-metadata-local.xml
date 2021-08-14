@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.howtodoinjava.demo</groupId>
+  <artifactId>springmvcexample</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20190828033047</lastUpdated>
+  </versioning>
+</metadata>
