@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Aug 09 10:23:44 ICT 2021
+https\://www.oracle.com/content/secure/maven/content/.error=Could not transfer artifact jasperreports-extensions\:jasperreports-extensions\:jar\:sources\:3.5.3 from/to maven-group (https\://www.oracle.com/content/secure/maven/content)\: Not authorized , ReasonPhrase\:Authorization Required.
+@default-maven-group-https\://www.oracle.com/content/secure/maven/content/.lastUpdated=1554800146568
+https\://repo.maven.apache.org/maven2/.lastUpdated=1628479424620
+https\://repo.maven.apache.org/maven2/.error=

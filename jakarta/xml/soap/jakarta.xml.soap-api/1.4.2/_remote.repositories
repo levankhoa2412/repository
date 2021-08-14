@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jun 11 17:39:35 ICT 2021
+jakarta.xml.soap-api-1.4.2.jar>central=
+jakarta.xml.soap-api-1.4.2.pom>central=
+jakarta.xml.soap-api-1.4.2-sources.jar>central=
+jakarta.xml.soap-api-1.4.2-javadoc.jar>central=
