@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Aug 27 13:58:00 ICT 2019
+https\://repo.maven.apache.org/maven2/.lastUpdated=1566889080957
+https\://repo.maven.apache.org/maven2/.error=
+http\://m2.objectdb.com/.lastUpdated=1566889080188
+https\://maven.oracle.com/.error=Could not transfer artifact aopalliance\:aopalliance\:jar\:javadoc\:1.0 from/to maven.oracle.com (https\://maven.oracle.com)\: Failed to transfer file\: https\://maven.oracle.com/aopalliance/aopalliance/1.0/aopalliance-1.0-javadoc.jar. Return code is\: 400 , ReasonPhrase\:Bad Request.
+@default-maven.oracle.com-https\://maven.oracle.com/.lastUpdated=1563177277591
+http\://m2.objectdb.com/.error=
