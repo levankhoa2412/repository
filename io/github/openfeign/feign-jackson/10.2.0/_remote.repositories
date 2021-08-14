@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri May 28 15:08:03 ICT 2021
+feign-jackson-10.2.0.jar>central=
+feign-jackson-10.2.0-javadoc.jar>central=
+feign-jackson-10.2.0-sources.jar>central=
+feign-jackson-10.2.0.pom>central=

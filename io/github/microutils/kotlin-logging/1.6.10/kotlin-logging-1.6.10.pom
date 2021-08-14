@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>io.github.microutils</groupId>
+  <artifactId>kotlin-logging</artifactId>
+  <version>1.6.10</version>
+  <dependencies>
+    <dependency>
+      <groupId>io.github.microutils</groupId>
+      <artifactId>kotlin-logging-common</artifactId>
+      <version>1.6.10</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.jetbrains.kotlin</groupId>
+      <artifactId>kotlin-stdlib</artifactId>
+      <version>1.2.60</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.slf4j</groupId>
+      <artifactId>slf4j-api</artifactId>
+      <version>1.7.25</version>
+      <scope>compile</scope>
+    </dependency>
+  </dependencies>
+  <description>kotlin-logging 1.6.10 - Lightweight logging framework for Kotlin</description>
+  <name>kotlin-logging</name>
+  <url>https://github.com/MicroUtils/kotlin-logging</url>
+  <scm>
+    <url>http://github.com/MicroUtils/kotlin-logging/tree/master</url>
+    <connection>scm:git:git://github.com/MicroUtils/kotlin-logging.git</connection>
+    <developerConnection>scm:git:ssh://github.com:MicroUtils/kotlin-logging.git</developerConnection>
+  </scm>
+  <licenses>
+    <license>
+      <name>The Apache Software License, Version 2.0</name>
+      <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <name>Ohad Shai</name>
+      <email>ohadshai@gmail.com</email>
+      <organization>github</organization>
+      <organizationUrl>http://www.github.com</organizationUrl>
+    </developer>
+  </developers>
+</project>
